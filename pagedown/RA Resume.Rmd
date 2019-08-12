@@ -1,0 +1,306 @@
+---
+title: "Joshua White Resume"
+author: Joshua White
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: "resume1.css"
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+    
+---
+
+Aside
+================================================================================
+
+
+![Joshua White](jwhite.jpg){width=80%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> joshua.white@outlook.com.au
+- <i class="fa fa-phone"></i> +61 415 931 248
+- <i class="fas fa-home"></i> 276 Cardigan Street 
+- <i class="fab fas-linkedin"></i> Carlton VIC 3053
+
+Links {#links}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-github"></i> [WhiteJP](https://github.com/WhiteJP)
+- <i class="fab fa-linkedin"></i> [joshua-p-white](https://www.linkedin.com/in/joshua-p-white/)
+- <i class="fa fa-twitter-square"></i> [J_P_White](https://twitter.com/J_P_White)
+- <i class="fas fa-link"></i> [newgoldenhammer.com](https://www.newgoldenhammer.com)
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experience writing and submitting ethics applications for experimental studies. 
+
+- Experience collecting experimental data, both online and in person.  
+
+- Experience with R, Python, MATLAB, HTML, CSS, JavaScript and Git for creating experiments and/or analysing data.   
+
+
+References {#references}
+--------------------------------------------------------------------------------
+
+References will be provided upon request.
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Joshua White {#title}
+--------------------------------------------------------------------------------
+
+### Aspiring Academic Seeking a Research Assistant Position
+
+I'm an Honours Psychology student interested in Cognitive Psychology, and particularly its intersection with Moral Psychology; and how new data analysis techniques can elucidate the perennial questions in these domains. Previously, I worked as a litigation lawyer so I’ve also got a healthy interest in the theory of law too. I also have experience with R, Python, MATLAB, HTML, CSS, JavaScript and Git for creating experiments and/or analysing data. 
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Volunteer Research Assistant to A/Prof. Amy Perfors
+
+Computational Cognitive Science Lab
+
+University of Melbourne
+
+2019
+
+- Conceptualise, research, code, complete ethics application, analyse data and (begin to) write a paper for a project about Ambiguity Aversion in qualitative contexts.
+
+### Psychology Honours Project
+
+**Supervisor:** A/Prof. Stefan Bode
+
+University of Melbourne
+
+2019
+
+- Help develop and pilot experimental paradigm.
+- Collect data with the REP and RPS through SONA.  
+- Fit generalized linear mixed model and linear ballistic accumulator on RT data. 
+
+### Psychology Capstone Project
+
+**Supervisor:** A/Prof. Daniel Little
+
+University of Melbourne
+
+2018
+
+::: concise 
+- Develop experimental paradigm.  
+- Collect and analyse experimental data. 
+:::
+
+### Volunteer Research Clerk
+
+United States Arbitration & Mediation
+
+Saint Louis, MO, USA
+
+2014
+
+
+Awards {data-icon=award data-concise=true}
+--------------------------------------------------------------------------------
+
+### Dean’s Award for the Graduate Diploma in Psychology 
+
+Top student of the Graduate Diploma in Psychology
+
+University of Melbourne
+
+2019
+
+### Behavioural Neuroscience Prize
+
+Highest grades in Behavioural Neuroscience subjects
+
+University of Melbourne
+
+2019
+
+### University of Melbourne Studentship
+
+Scholarship for High Achievement
+
+University of Melbourne
+
+2019
+
+### Dean's Honour Roll
+
+Top 10% of graduating LLB/BCom class
+
+University of Queensland
+
+2014
+
+### Dean's Commendation of High Achievement
+
+Exceptional grades --- Semester 1, 2010 & Semester 2, 2011 
+
+University of Queensland
+
+2011 - 2010
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### University of Melbourne
+
+Graduate Diploma (Advanced) in Psychology
+
+Melbourne, Australia
+
+2019
+
+### University of Melbourne
+
+Graduate Diploma in Psychology
+
+Melbourne, Australia
+
+2018
+
+### University of Melbourne
+
+Complex Human Data Summer School 
+
+Melbourne, Australia
+
+2018
+
+### Washington University in Saint Louis
+
+Master of Laws
+
+Saint Louis, MO, USA
+
+2014
+
+### University of Queensland
+
+Bachelor of Laws (Hons)
+
+Brisbane, Australia
+
+2013
+
+### University of Queensland
+
+Bachelor of Commerce (Finance)
+
+Brisbane, Australia
+
+2013
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Lawyer
+
+Thomson Geer 
+
+Brisbane, Australia
+
+2017 - 2015
+
+::: concise
+- Construction litigation
+- Insolvency litigation
+- General commercial litigation
+- Admitted to Supreme Court of Queensland
+- Admitted to High Court of Australia
+::: 
+
+### Member Service Officer
+
+Heritage Bank
+
+Toowoomba, Australia
+
+2010 - 2009
+
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Statistics Tutor
+
+Self-employed
+
+Melbourne, Australia
+
+2019
+
+Informal statistics tutoring for University of Melbourne psychology undergraduates.
+
+### English-as-a-Second-Language Teacher
+
+Self-employed, italki.com
+
+N/A
+
+2019 - 2017
+
+Teaching English to upper-intermediate/advanced English learners. 
+
+### Contract Law Tutor
+
+University of Queensland Law Society
+
+Brisbane, Australia
+
+2012
+
+Selected Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Blog Posts 
+
+N/A
+
+N/A
+
+2019
+
+- Simulation Stimulation: AFL Season 2018
+- Simulation Stimulation Part II: AFL Season 2019
+- Simulation Stimulation Part III: Implementation
+
+
+### Queensland Government consulting with industry regarding security of payment reforms.
+
+Thomson Geer Construction Law Alerts
+
+N/A
+
+2015
+
+Kelly A, McKillop T, **White J**
+
+### Out of time, out of luck: harsh time bars defeat EOT Claim 
+
+Thomson Geer Construction Law Alerts
+
+N/A
+
+2015
+
+Kelly A, Mackintosh A, **White J**
+
