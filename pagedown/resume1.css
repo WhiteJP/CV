@@ -111,7 +111,7 @@ h1, h2{
 #title{
   position: relative;
   left: 0.55in;
-  margin: auto 0.55in 0.3in auto;
+  margin: auto 0.55in 0.1in auto;
   line-height: 1.2;
 }
 
@@ -149,7 +149,7 @@ h1, h2{
   position: absolute;
   left: var(--main-blocks-title-icon-offset-left);
   z-index: 1; /* over decorator line */
-  color: #444;
+  color: #191970;
 }
 
 #main h2::after{ /* extends the decorator line */
