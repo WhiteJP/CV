@@ -1,0 +1,375 @@
+---
+title: "Joshua White Resume"
+author: "Joshua White"
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: "resume1.css"
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+    
+---
+
+Aside
+================================================================================
+
+
+![Joshua White](jwhite.jpg){width=80%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> jwhite@cogstate.com
+- <i class="fa fa-phone"></i> +61 415 931 248
+
+Links {#links}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-github"></i> [WhiteJP](https://github.com/WhiteJP)
+- <i class="fab fa-linkedin"></i> [joshua-p-white](https://www.linkedin.com/in/joshua-p-white/)
+- <i class="fa fa-twitter-square"></i> [J_P_White](https://twitter.com/J_P_White)
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experience with R, Python, MATLAB, SPSS, SAS, HTML, CSS, JavaScript, ShinyApps, Qualtrics and Git for creating experiments and surveys and/or analysing and visualising data. 
+
+- Experience with wide array of statistical and machine learning methods for data analysis, as well as with data visualisation.  
+
+
+References {#references}
+--------------------------------------------------------------------------------
+
+References will be provided upon request.
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Joshua White {#title}
+--------------------------------------------------------------------------------
+
+### Data Scientist @ Cogstate
+
+I'm a Data Scientist in the innovation team at Cogstate. My role primarily involves undertaking data analysis to support the business development and product development of Cogstate tests. I have a particular interest in using computational methods and complex data analysis to better understand the mind, and have experience doing so with a variety of programs / programming languages. I also tutor statistics and data analysis at the Melbourne School of Psychological Sciences, University of Melbourne. Previously, I worked as a litigation lawyer.
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### University of Melbourne
+
+Graduate Diploma (Advanced) in Psychology
+
+Melbourne, Australia
+
+2019
+
+### University of Melbourne
+
+Graduate Diploma in Psychology
+
+Melbourne, Australia
+
+2018
+
+### Washington University in Saint Louis
+
+Master of Laws
+
+Saint Louis, MO, USA
+
+2014
+
+### University of Queensland
+
+Bachelor of Laws (Hons) & Bachelor of Commerce (Finance)
+
+Brisbane, Australia
+
+2013
+
+
+Research/Science Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Data Scientist -- Innovation
+
+Cogstate Ltd
+
+Mebourne, Australia
+
+Present - 2021
+
+I undertake data analysis to support the business development and product development of Cogstate tests.
+
+### Scientist
+
+Cogstate Ltd
+
+Mebourne, Australia
+
+2021 - 2020
+
+
+### Complex Human Data Hub Research Assistant
+
+Melbourne School of Psychological Sciences (MSPS)
+
+University of Melbourne
+
+2021 - 2020
+
+::: concise
+- Take a leading role in COVID-19 tracking social licence project
+- Assist with CHDH research projects
+- Organise CHDH Seminar Series
+- Manage CHDH website
+- Manage CHDH social media 
+::: 
+
+### Research Assistant to Prof. Simon Dennis
+
+Memory and Language Lab
+
+University of Melbourne
+
+2020 - 2019
+
+Conceptualise, research, code, complete ethics application, collect and analyse data, and write paper.  
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Lawyer
+
+Thomson Geer 
+
+Brisbane, Australia
+
+2017 - 2015
+
+::: concise
+- Insolvency litigation
+- General commercial litigation
+- Admitted to Queensland Supreme Court
+- Admitted to High Court of Australia
+::: 
+
+### Member Service Officer
+
+Heritage Bank
+
+Toowoomba, Australia
+
+2010 - 2009
+
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Advanced Design and Data Anlysis (PSYC40005) Tutor
+
+University of Melbourne
+
+Melbourne, Australia
+
+2021
+
+Tutoring two PSYC40005 lab classes for MSPS. 
+
+### Advanced Research Methods in Psychology (PSYC40014) Tutor
+
+University of Melbourne
+
+Melbourne, Australia
+
+2021
+
+Tutoring three PSYC40014 lab classes for MSPS. 
+
+### Mind, Brain & Behaviour 2 (PSYC10004) Tutor
+
+University of Melbourne
+
+Melbourne, Australia
+
+2020
+
+Tutoring three PSYC10004 lab classes for MSPS. 
+
+### Mind, Brain & Behaviour 1 (PSYC10003) Tutor
+
+University of Melbourne
+
+Melbourne, Australia
+
+2020
+
+Tutored two PSYC10003 lab classes for MSPS. 
+
+### Cognitive Psychology (PSYC20007) Tutor
+
+University of Melbourne
+
+Melbourne, Australia
+
+2019
+
+Tutored two PSYC20007 lab classes for MSPS. 
+
+### Statistics Tutor
+
+Self-employed
+
+Melbourne, Australia
+
+2019
+
+Informal statistics tutoring for University of Melbourne psychology undergraduates.
+
+
+Awards {data-icon=award data-concise=true}
+--------------------------------------------------------------------------------
+
+### Australian Psychological Society Prize for fourth year Psychology 
+
+Top ranking graduating student (WAM: 94.5)
+
+University of Melbourne
+
+2019
+
+### Dean’s Honours List for the Graduate Diploma in Psychology 
+
+Top ranking graduating student (WAM: 92.7)
+
+University of Melbourne
+
+2018
+
+### Behavioural Neuroscience Prize
+
+Highest grades in Behavioural Neuroscience subjects
+
+University of Melbourne
+
+2018
+
+### Dean's Honour Roll
+
+Top 10% of graduating LLB/BCom class
+
+University of Queensland
+
+2014
+
+### Dean's Commendation of High Achievement
+
+Exceptional grades --- Semester 1, 2010 & Semester 2, 2011 
+
+University of Queensland
+
+2011 - 2010
+
+
+Academic Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### [Paths to Social Licence for Tracking-data Analytics](https://doi.org/10.1371/journal.pone.0251964)
+
+PLoS ONE
+
+N/A
+
+2021
+
+**Joshua P. White**, Simon Dennis, Jessica Bell, Martin Tomko, Stephan Winter
+
+
+### [The acceptability and uptake of smartphone tracking for COVID-19 in Australia](https://doi.org/10.1371/journal.pone.0244827)
+
+PLoS ONE
+
+N/A
+
+2021
+
+Paul M. Garrett, **Joshua P. White**, Stephan Lewandowsky, Yoshihisa Kashima, Andrew Perfors, Daniel R. Little,  Nic Geard, Lewis Mitchell, Martin Tomko, Simon Dennis
+
+
+### [Public acceptance of Privacy-Encroaching Policies to Address the COVID-19 Pandemic in the United Kingdom](https://doi.org/10.1371/journal.pone.0245740)
+
+PLoS ONE)
+
+N/A
+
+2021
+
+Stephan Lewandowsky, Simon Dennis, Amy Perfors, Yoshihisa Kashima, **Joshua P. White**, Paul Garrett,  Daniel R. Little,  Muhsin Yesilada
+
+
+### [Young adults view smartphone tracking technologies for COVID-19 as acceptable: the case of Taiwan
+](https://doi.org/10.3390/ijerph18031332)
+
+International Journal of Environmental Research and Public Health
+
+N/A
+
+2021
+
+Paul M. Garrett, Yu Wen Wang, **Joshua P. White**, Shulan Hsieh, Carol Strong, Yi-Chan Lee,  Stephan Lewandowsky, Simon Dennis, Cheng-Ta Yang
+
+
+### [Ambiguity aversion in qualitative contexts: a vignette study](https://psyarxiv.com/dnghf/)
+
+Psyarxiv (Submitted to Journal of Behavoural Decision Making)
+
+N/A
+
+2021
+
+**Joshua P. White**, Andrew Perfors
+
+
+### [Response time modelling reveals evidence for multiple, distinct sources of moral decision caution](https://doi.org/10.1101/2021.01.27.427353)
+
+BioRxiv (Submitted to Cognition)
+
+N/A
+
+2021
+
+Milan Andrejević, **Joshua P. White**, Daniel Feuerriegel, Simon Laham, Stefan Bode
+
+### [Papers please: Predictive factors for the uptake of national and international COVID-19 immunity and vaccination passports
+](https://psyarxiv.com/fxemq/)
+
+PsyArXiv (Submitted to Journal of Medical Internet Research)
+
+N/A
+
+2021
+
+Paul M. Garrett, **Joshua P. White**, Simon Dennis, Stephan Lewandowsky, Cheng-Ta Yang, Yasmina Okan, Andrew Perfors, Daniel R. Little, Anastasia Kozyreva, Philipp Lorenz-Spreen, Takashi Kusumi, Yoshihisa Kashima
+
+### [High national acceptance for COVID-19 contact tracing technologies in Taiwan
+](https://preprints.jmir.org/preprint/31522)
+
+JMIR mHealth and uHealth (currently as preprint)
+
+N/A
+
+2021
+
+Paul M. Garrett, Yu Wen Wang, **Joshua P. White**, Yoshihisa Kashima, Simon Dennis, Cheng-Ta Yang

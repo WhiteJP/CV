@@ -1,0 +1,382 @@
+---
+title: "Joshua White Resume"
+author: Joshua White
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: "resume1.css"
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+    
+---
+
+Aside
+================================================================================
+
+
+![Joshua White](jwhite.jpg){width=80%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> josh.white@unimelb.edu.au
+- <i class="fa fa-phone"></i> +61 415 931 248
+- <i class="fas fa-home"></i> 276 Cardigan Street 
+- <i class="fab fas-linkedin"></i> Carlton VIC 3053
+
+Links {#links}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-github"></i> [WhiteJP](https://github.com/WhiteJP)
+- <i class="fab fa-linkedin"></i> [joshua-p-white](https://www.linkedin.com/in/joshua-p-white/)
+- <i class="fa fa-twitter-square"></i> [J_P_White](https://twitter.com/J_P_White)
+- <i class="fas fa-link"></i> [newgoldenhammer.com](https://www.newgoldenhammer.com)
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Online teaching with Skype and Zoom.  
+
+- Utilising Canvas to make announcements, emails, upload files, and mark assignments. 
+
+- Broad practical and theoretical experience with negotiation and conflict resolution.    
+
+
+References {#references}
+--------------------------------------------------------------------------------
+
+References will be provided upon request.
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+Main
+================================================================================
+
+Joshua White {#title}
+--------------------------------------------------------------------------------
+
+### Aspiring Academic Seeking Teaching Assistant Position 
+
+I'm an aspiring academic at the University of Melbourne. I have many years’ experience both in negotiation and university-level teaching. My negotiation experience encompasses both theory—I have a Master’s degree in Negotiation and Dispute Resolution—and practice—I have experience as a mediator and as a negotiator on behalf of clients as a litigation lawyer. I also have many years’ online teaching experience, and experience with Canvas.
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Mind, Brain & Behaviour 1 (PSYC10003) Online Tutor
+
+University of Melbourne
+
+Melbourne, Australia
+
+Present - 2020
+
+Tutored two PSYC10003 lab classes for the Melbourne School of Psychological Sciences. Tasks involved leading online Zoom tutorials and liasing with students and marking student essays with Canvas. 
+
+### Cognitive Psychology (PSYC20007) Tutor
+
+University of Melbourne
+
+Melbourne, Australia
+
+2019
+
+Tutored two PSYC20007 lab classes for MSPS. Tasks involved leading tutorials, liasing with students, and marking student lab reports and oral presentations. 
+
+### Statistics Tutor
+
+Self-employed
+
+Melbourne, Australia
+
+2019
+
+Informal statistics tutoring for University of Melbourne psychology undergraduates.
+
+### English-as-a-Second-Language Online Teacher
+
+Self-employed, italki.com
+
+N/A
+
+2019 - 2017
+
+Teaching English to upper-intermediate/advanced English learners. 
+
+### Contract Law Tutor
+
+University of Queensland Law Society
+
+Brisbane, Australia
+
+2012
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Lawyer
+
+Thomson Geer 
+
+Brisbane, Australia
+
+2017 - 2015
+
+::: concise
+- Insolvency litigation
+- General commercial litigation
+- Admitted to Queensland Supreme Court
+- Admitted to High Court of Australia
+::: 
+
+### Volunteer Mediator
+
+Better Business Bureau
+
+Saint Louis, MO, USA
+
+2014
+
+::: concise
+- Mediate consumer disputes
+::: 
+
+### Volunteer Research Clerk & Mediation Observation
+
+United States Arbitration & Mediation
+
+Saint Louis, MO, USA
+
+2014
+
+::: concise
+- Develop presentation on exceptions to confidentiality in Missouri Mediation
+- Observe personal injury and employment discrimination mediations
+::: 
+
+### Member Service Officer
+
+Heritage Bank
+
+Toowoomba, Australia
+
+2010 - 2009
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### University of Melbourne
+
+Graduate Diploma (Advanced) in Psychology
+
+Melbourne, Australia
+
+2019
+
+### University of Melbourne
+
+Graduate Diploma in Psychology
+
+Melbourne, Australia
+
+2018
+
+### Washington University in Saint Louis
+
+Master of Laws in Negotiation and Dispute Resolution
+
+Saint Louis, MO, USA
+
+2014
+
+### University of Queensland
+
+Bachelor of Laws (Hons) / Bachelor of Commerce (Finance)
+
+Brisbane, Australia
+
+2013
+
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Complex Human Data Hub Research Assistant
+
+Melbourne School of Psychological Sciences
+
+University of Melbourne
+
+Present - 2020
+
+::: concise
+- Take a leading role in COVID-19 tracking social licence project
+- Assist with CHDH research projects
+- Organise CHDH Seminar Series
+- Update CHDH website
+- Run CHDH Twitter account
+::: 
+
+### Research Assistant to Prof Simon Dennis
+
+Memory and Language Lab
+
+University of Melbourne
+
+2019
+
+Conceptualise, research, code, complete ethics application, write analysis script, meet and liase with other researchers and stakeholders in relation to the LUMAS social licence project. 
+
+### Volunteer Research Assistant to A/Prof Amy Perfors
+
+Computational Cognitive Science Lab
+
+University of Melbourne
+
+2019
+
+Conceptualise, research, code, complete ethics application, collect and analyse data (MTurk), and write paper about Ambiguity Aversion in qualitative contexts.
+
+### Psychology Honours Project
+
+**Supervisor:** A/Prof. Stefan Bode
+
+University of Melbourne
+
+2019
+
+Develop and pilot experimental paradigm, collect data using the REP and the PRS through SONA, fit generalized linear mixed models on RT data, and write 10,000 word empirical report.
+
+### Psychology Capstone Project
+
+**Supervisor:** A/Prof. Daniel Little
+
+University of Melbourne
+
+2018
+
+::: concise
+- Develop experimental paradigm.
+- Collect and analyse experimental data.
+::: 
+
+
+Awards {data-icon=award data-concise=true}
+--------------------------------------------------------------------------------
+
+### APS Prize for fourth year Psychology 
+
+Top ranking graduating student (WAM: 94.5)
+
+University of Melbourne
+
+2019
+
+### Dean’s Honours List for the Graduate Diploma in Psychology 
+
+Top ranking graduating student (WAM: 92.7)
+
+University of Melbourne
+
+2018
+
+### Behavioural Neuroscience Prize
+
+Highest grades in Behavioural Neuroscience subjects
+
+University of Melbourne
+
+2018
+
+### Dean's Honour Roll
+
+Top 10% of graduating LLB/BCom class
+
+University of Queensland
+
+2014
+
+### Dean's Commendation of High Achievement
+
+Exceptional grades --- Semester 1, 2010 & Semester 2, 2011 
+
+University of Queensland
+
+2011 - 2010
+
+
+Selected Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### [70% of people surveyed said they’d download a coronavirus app. Only 44% did. Why the gap?](https://theconversation.com/70-of-people-surveyed-said-theyd-download-a-coronavirus-app-only-44-did-why-the-gap-138427)
+
+The Conversation
+
+N/A
+
+2020
+
+**Josh White**, Paul Garrett, Simon Dennis, Daniel Little, Amy Perfors, Yoshi Kashima, Stephan Lewandowsky, Nic Geard, Lewis Mitchell
+
+### [Decreasing support for immunity passports amongst Australians, but this depends on age](https://psychologicalsciences.unimelb.edu.au/research/hubs/chdh/news/decreasing-support-for-immunity-passports-amongst-australians,-but-this-depends-on-age)
+
+CHDH News, University of Melbourne
+
+N/A
+
+2020
+
+**Josh White**, Paul Garrett, Simon Dennis, Daniel Little, Amy Perfors, Yoshi Kashima, Stephan Lewandowsky 
+
+### [Do Australians support ‘Immunity Passports’ in response to the COVID-19 pandemic?](https://psychologicalsciences.unimelb.edu.au/research/hubs/chdh/news/immunity-passport-support-australia)
+
+CHDH News, University of Melbourne
+
+N/A
+
+2020
+
+**Josh White**, Paul Garrett, Simon Dennis, Daniel Little, Amy Perfors, Yoshi Kashima, Stephan Lewandowsky 
+
+
+### [Blog Posts](https://www.newgoldenhammer.com/blog/)
+
+N/A
+
+N/A
+
+2019
+
+- Simulation Stimulation: AFL Season 2018
+- Simulation Stimulation Part II: AFL Season 2019
+- Simulation Stimulation Part III: Implementation
+
+
+### [Queensland Government consulting with industry regarding security of payment reforms](https://www.tglaw.com.au/corporate/publications/construction-alert-queensland-government-consulting-with-industry-regarding-security-of-payment-reforms/)
+
+Thomson Geer Construction Law Alerts
+
+N/A
+
+2015
+
+Kelly A, McKillop T, **White J**
+
+### [Out of time, out of luck: harsh time bars defeat EOT Claim](https://www.tglaw.com.au/corporate/publications/construction-alert-out-of-time-out-of-luck-harsh-time-bars-defeat-eot-claim/) 
+
+Thomson Geer Construction Law Alerts
+
+N/A
+
+2015
+
+Kelly A, Mackintosh A, **White J**
+

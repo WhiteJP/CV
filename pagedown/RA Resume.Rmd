@@ -38,9 +38,9 @@ Skills {#skills}
 
 - Experience writing and submitting ethics applications for experimental studies. 
 
-- Experience collecting experimental data, both online and in person.  
+- Experience collecting experimental data, both online (with MTurk) and in person.  
 
-- Experience with R, Python, MATLAB, HTML, CSS, JavaScript and Git for creating experiments and/or analysing data.   
+- Experience with R, Python, MATLAB, SPSS, JASP, HTML, CSS, JavaScript, Google Cloud, Qualtrics and Git for creating experiments and surveys and/or analysing data.   
 
 
 References {#references}
@@ -66,62 +66,7 @@ Joshua White {#title}
 
 ### Aspiring Academic Seeking a Research Assistant Position
 
-<<<<<<< HEAD:pagedown/pagedown_1.Rmd
-I’m an Honours Psychology student interested in Cognitive Psychology, and particularly its
-intersection with Moral Psychology; and how new data analysis techniques can elucidate the
-perennial questions in these domains. Previously, I worked as a litigation lawyer so I’ve also
-got a healthy interest in the theory of law too. I also have experience with R, Python,
-MATLAB, HTML, CSS, JavaScript and Git for creating experiments and/or analysing data.
-=======
-I'm an Honours Psychology student interested in Cognitive Psychology, and particularly its intersection with Moral Psychology; and how new data analysis techniques can elucidate the perennial questions in these domains. Previously, I worked as a litigation lawyer so I’ve also got a healthy interest in the theory of law too. I also have experience with R, Python, MATLAB, HTML, CSS, JavaScript and Git for creating experiments and/or analysing data. 
-
-Research Experience {data-icon=laptop}
---------------------------------------------------------------------------------
-
-### Volunteer Research Assistant to A/Prof. Amy Perfors
-
-Computational Cognitive Science Lab
-
-University of Melbourne
-
-2019
-
-- Conceptualise, research, code, complete ethics application, analyse data and (begin to) write a paper for a project about Ambiguity Aversion in qualitative contexts.
-
-### Psychology Honours Project
-
-**Supervisor:** A/Prof. Stefan Bode
-
-University of Melbourne
-
-2019
-
-- Help develop and pilot experimental paradigm.
-- Collect data with the REP and RPS through SONA.  
-- Fit generalized linear mixed model and linear ballistic accumulator on RT data. 
-
-### Psychology Capstone Project
-
-**Supervisor:** A/Prof. Daniel Little
-
-University of Melbourne
-
-2018
-
-::: concise 
-- Develop experimental paradigm.  
-- Collect and analyse experimental data. 
-:::
-
-### Volunteer Research Clerk
-
-United States Arbitration & Mediation
-
-Saint Louis, MO, USA
-
-2014
-
->>>>>>> 0802e0ca2e00837f64f8735bff0ef3d061589613:pagedown/RA Resume.Rmd
+I'm an aspiring academic who just finished his Honours in Psychology at the University of Melbourne. I have experience as a research assistant, including helping to conceptualise experiments, researching for them, creating/coding the experiments, completing ethics applications, collecting the data, and implementing data analysis with a variety of programs/languages. Previously, I worked as a litigation lawyer.
 
 
 Research Experience {data-icon=laptop}
@@ -135,7 +80,7 @@ University of Melbourne
 
 2019
 
-Conceptualise, research, code, complete ethics application, meet and liase with University in relation to the LUMAS social licence project. 
+Conceptualise, research, code, complete ethics application, write analysis script, meet and liase with other researchers and stakeholders in relation to the LUMAS social licence project. 
 
 ### Volunteer Research Assistant to A/Prof Amy Perfors
 
@@ -145,7 +90,7 @@ University of Melbourne
 
 2019
 
-Conceptualise, research, code, complete ethics application, analyse data and (begin to) write a paper for a project about Ambiguity Aversion in qualitative contexts. Collect Mturk data. 
+Conceptualise, research, code, complete ethics application, collect and analyse data (MTurk), and write paper about Ambiguity Aversion in qualitative contexts.
 
 ### Psychology Honours Project
 
@@ -155,9 +100,7 @@ University of Melbourne
 
 2019
 
-- Help develop and pilot experimental paradigm.
-- Collect data using the Research Experience Program and the Reimbursement Participant system through SONA.  
-- Fit generalized linear mixed model and linear ballistic accumulator on RT data. 
+Develop and pilot experimental paradigm, collect data using the REP and the PRS through SONA, fit generalized linear mixed models on RT data, and write 10,000 word empirical report.
 
 ### Psychology Capstone Project
 
@@ -172,21 +115,21 @@ University of Melbourne
 - Collect and analyse experimental data.
 ::: 
 
-### Volunteer Research Clerk
-
-United States Arbitration & Mediation
-
-Saint Louis, MO, USA
-
-2014
-
 
 Awards {data-icon=award data-concise=true}
 --------------------------------------------------------------------------------
 
+### APS Prize for fourth year Psychology 
+
+Top ranking graduating student (WAM: 94.5)
+
+University of Melbourne
+
+2019
+
 ### Dean’s Honours List for the Graduate Diploma in Psychology 
 
-Top graduating student
+Top ranking graduating student (WAM: 92.7)
 
 University of Melbourne
 
@@ -195,14 +138,6 @@ University of Melbourne
 ### Behavioural Neuroscience Prize
 
 Highest grades in Behavioural Neuroscience subjects
-
-University of Melbourne
-
-2018
-
-### University of Melbourne Studentship
-
-Scholarship for High Achievement
 
 University of Melbourne
 
@@ -261,25 +196,13 @@ Saint Louis, MO, USA
 
 ### University of Queensland
 
-Bachelor of Laws (Hons)
+Bachelor of Laws (Hons) / Bachelor of Commerce (Finance)
 
 Brisbane, Australia
 
 2013
 
-### University of Queensland
 
-Bachelor of Commerce (Finance)
-
-Brisbane, Australia
-
-2013
-
-<<<<<<< HEAD:pagedown/pagedown_1.Rmd
-
-
-=======
->>>>>>> 0802e0ca2e00837f64f8735bff0ef3d061589613:pagedown/RA Resume.Rmd
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
@@ -292,10 +215,9 @@ Brisbane, Australia
 2017 - 2015
 
 ::: concise
-- Construction litigation
 - Insolvency litigation
 - General commercial litigation
-- Admitted to Supreme Court of Queensland
+- Admitted to Queensland Supreme Court
 - Admitted to High Court of Australia
 ::: 
 
@@ -310,6 +232,25 @@ Toowoomba, Australia
 
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
+### Mind, Brain & Behaviour 2 (PSYC10004) Tutor
+
+University of Melbourne
+
+Melbourne, Australia
+
+Present - 2020
+
+Tutored two PSYC10004 lab classes for the Melbourne School of Psychological Sciences. Tasks involved leading online Zoom tutorials and liasing with students and marking student essays with Canvas. 
+
+### Mind, Brain & Behaviour 1 (PSYC10003) Tutor
+
+University of Melbourne
+
+Melbourne, Australia
+
+2020
+
+Tutored two PSYC10003 lab classes for the Melbourne School of Psychological Sciences. Tasks involved leading online Zoom tutorials and liasing with students and marking student essays with Canvas. 
 
 ### Cognitive Psychology (PSYC20007) Tutor
 
@@ -319,7 +260,7 @@ Melbourne, Australia
 
 2019
 
-Tutored two PSYC20007 lab classes for PSYC20007 at the Melbourne School of Psychological Science. Tasks involved preparing for, and leading the tutorial, liasing with students, and marking student lab reports and oral presentations. 
+Tutored two PSYC20007 lab classes for MSPS. Tasks involved leading tutorials, liasing with students, and marking student lab reports and oral presentations. 
 
 ### Statistics Tutor
 
@@ -341,18 +282,42 @@ N/A
 
 Teaching English to upper-intermediate/advanced English learners. 
 
-### Contract Law Tutor
-
-University of Queensland Law Society
-
-Brisbane, Australia
-
-2012
 
 Selected Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
-### Blog Posts 
+### [70% of people surveyed said they’d download a coronavirus app. Only 44% did. Why the gap?](https://theconversation.com/70-of-people-surveyed-said-theyd-download-a-coronavirus-app-only-44-did-why-the-gap-138427)
+
+The Conversation
+
+N/A
+
+2020
+
+**Josh White**, Paul Garrett, Simon Dennis, Daniel Little, Amy Perfors, Yoshi Kashima, Stephan Lewandowsky, Nic Geard, Lewis Mitchell
+
+### [Decreasing support for immunity passports amongst Australians, but this depends on age](https://psychologicalsciences.unimelb.edu.au/research/hubs/chdh/news/decreasing-support-for-immunity-passports-amongst-australians,-but-this-depends-on-age)
+
+CHDH News, University of Melbourne
+
+N/A
+
+2020
+
+**Josh White**, Paul Garrett, Simon Dennis, Daniel Little, Amy Perfors, Yoshi Kashima, Stephan Lewandowsky 
+
+### [Do Australians support ‘Immunity Passports’ in response to the COVID-19 pandemic?](https://psychologicalsciences.unimelb.edu.au/research/hubs/chdh/news/immunity-passport-support-australia)
+
+CHDH News, University of Melbourne
+
+N/A
+
+2020
+
+**Josh White**, Paul Garrett, Simon Dennis, Daniel Little, Amy Perfors, Yoshi Kashima, Stephan Lewandowsky 
+
+
+### [Blog Posts](https://www.newgoldenhammer.com/blog/)
 
 N/A
 
@@ -365,7 +330,7 @@ N/A
 - Simulation Stimulation Part III: Implementation
 
 
-### Queensland Government consulting with industry regarding security of payment reforms.
+### [Queensland Government consulting with industry regarding security of payment reforms](https://www.tglaw.com.au/corporate/publications/construction-alert-queensland-government-consulting-with-industry-regarding-security-of-payment-reforms/)
 
 Thomson Geer Construction Law Alerts
 
@@ -375,7 +340,7 @@ N/A
 
 Kelly A, McKillop T, **White J**
 
-### Out of time, out of luck: harsh time bars defeat EOT Claim 
+### [Out of time, out of luck: harsh time bars defeat EOT Claim](https://www.tglaw.com.au/corporate/publications/construction-alert-out-of-time-out-of-luck-harsh-time-bars-defeat-eot-claim/) 
 
 Thomson Geer Construction Law Alerts
 
@@ -384,4 +349,3 @@ N/A
 2015
 
 Kelly A, Mackintosh A, **White J**
-

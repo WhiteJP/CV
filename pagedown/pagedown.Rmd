@@ -66,13 +66,6 @@ Joshua White {#title}
 
 ### Aspiring Academic Seeking a Research Assistant Position
 
-<<<<<<< HEAD:pagedown/pagedown_1.Rmd
-I’m an Honours Psychology student interested in Cognitive Psychology, and particularly its
-intersection with Moral Psychology; and how new data analysis techniques can elucidate the
-perennial questions in these domains. Previously, I worked as a litigation lawyer so I’ve also
-got a healthy interest in the theory of law too. I also have experience with R, Python,
-MATLAB, HTML, CSS, JavaScript and Git for creating experiments and/or analysing data.
-=======
 I'm an Honours Psychology student interested in Cognitive Psychology, and particularly its intersection with Moral Psychology; and how new data analysis techniques can elucidate the perennial questions in these domains. Previously, I worked as a litigation lawyer so I’ve also got a healthy interest in the theory of law too. I also have experience with R, Python, MATLAB, HTML, CSS, JavaScript and Git for creating experiments and/or analysing data. 
 
 Research Experience {data-icon=laptop}
@@ -275,11 +268,7 @@ Brisbane, Australia
 
 2013
 
-<<<<<<< HEAD:pagedown/pagedown_1.Rmd
 
-
-=======
->>>>>>> 0802e0ca2e00837f64f8735bff0ef3d061589613:pagedown/RA Resume.Rmd
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
