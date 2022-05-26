@@ -1,20 +1,30 @@
+---
+output: github_document
+---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# CV
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
 
-My attempts at creating a CV(s) using R packages ‘pagedown’ and
-’VisualResume\`.
+# CV 
+
+My attempts at creating a CV(s) using R packages 'pagedown' and 'VisualResume`.
 
 <!-- badges: start -->
 <!-- badges: end -->
 
 ## Visual Resume
 
-Below is my visual resume made with the `VisualResume`
-[package](https://github.com/ndphillips/VisualResume).
+Below is my visual resume made with the `VisualResume` [package](https://github.com/ndphillips/VisualResume).
 
-``` r
+```{r, fig.width=8.5, fig.height=11, warning= FALSE, message=FALSE}
 #devtools::install_github("ndphillips/VisualResume")
 library(VisualResume)
 
@@ -58,12 +68,11 @@ VisualResume(
   interests = 
     list(
       "Programming" = c(rep("R", 10), rep("DataVis", 6), rep("JavaScript", 2), "Python"),
-      "Statistics" = c(rep("ML", 2), rep("Regression", 3), rep("Bayes", 7)),
+      "Statistics" = c(rep("ML", 1), rep("Regression", 1), rep("Bayes", 7)),
       "Psychology" = c(rep("Cog", 3), rep("MathPsych", 2), rep("Decision-making", 3))),
   year.steps = 1
 )
 ```
 
-<img src="man/figures/README-unnamed-chunk-2-1.png" width="100%" />
 
 ## PDF Resume
