@@ -24,7 +24,7 @@ My attempts at creating a CV(s) using R packages 'pagedown' and 'VisualResume`.
 
 Below is my visual resume made with the `VisualResume` [package](https://github.com/ndphillips/VisualResume).
 
-```{r, fig.width=8.5, fig.height=11, warning= FALSE, message=FALSE}
+```{r, fig.width=11, fig.height=8.5, warning= FALSE, message=FALSE}
 #devtools::install_github("ndphillips/VisualResume")
 library(VisualResume)
 
@@ -61,15 +61,15 @@ VisualResume(
   events = data.frame(
     year = c(2014, 2016, 2018, 2019, 2020),
     title = c("Top 10% of graduating LLB/BCom students",
-              "3:36 Gold Coast Marathon,\nand completed RiverRun UltraMarathon",
+              "3h:36m Gold Coast Marathon,\nand completed RiverRun UltraMarathon",
               "Valedictorian of UniMelb GradDip Psychology",
-              "Valedict. of UniMelb GradDip (Adv) Psychology",
+              "Valedictorian of UniMelb GradDip (Adv) Psychology",
               "First Published Academic Paper\ndoi: 10.1371/journal.pone.0251964")),
   interests = 
     list(
-      "Programming" = c(rep("R", 10), rep("DataVis", 6), rep("JavaScript", 2), "Python"),
-      "Statistics" = c(rep("ML", 1), rep("Regression", 1), rep("Bayes", 7)),
-      "Psychology" = c(rep("Cog", 3), rep("MathPsych", 2), rep("Decision-making", 3))),
+      "Programming" = c(rep("R", 30), rep("DataVis", 9), rep("JavaScript", 2), "Python"),
+      "Statistics" = c(rep("ML", 1), rep("Regression", 3), rep("Bayes", 2)),
+      "Psychology" = c(rep("Cog", 3), rep("MathPsych", 3), rep("Decision-making", 3))),
   year.steps = 1
 )
 ```
