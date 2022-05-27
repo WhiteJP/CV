@@ -3,8 +3,8 @@
 
 # CV
 
-My attempts at creating a CV(s) using R packages ‘pagedown’ and
-’VisualResume\`.
+My attempts at creating a CV(s) using R packages ‘pagedown’,
+DataDrivenCV, ’VisualResume\`, and others. .
 
 <!-- badges: start -->
 <!-- badges: end -->
@@ -39,7 +39,7 @@ VisualResume(
                 "Cogstate"),
       sub = c("LLB & BCom (Finance) Student", "LLM Student", "Lawyer", 
               "while travelling", "Grad Dip Psych", "Grad Dip Psych (Adv)",
-              "Research Assitant", "Scientist", "Data Scientist"),
+              "Research Assistant", "Scientist", "Data Scientist"),
       start = c(2010, 2014, 2015, 2017.2, 2018, 2019, 2019.5, 2020.5, 2021.1),
       end = c(2014, 2015, 2017.35, 2018, 2019, 2020, 2021, 2021.1, 2023),
       side = c(1, 1, 1, 1, 0, 0, 0, 0, 0)),
@@ -49,16 +49,16 @@ VisualResume(
       sub = c("Finance & Law", "Law", "Psychology"),
       year = c(2014, 2015, 2019)),
   events = data.frame(
-    year = c(2014, 2016, 2018, 2019, 2020),
+    year = c(2013.85, 2016.55, 2018.85, 2019.85, 2020.75),
     title = c("Top 10% of graduating LLB/BCom students",
-              "3h:36m Gold Coast Marathon,\nand completed RiverRun UltraMarathon",
+              "3hr 36m Gold Coast Marathon,\nand completed RiverRun UltraMarathon",
               "Valedictorian of UniMelb GradDip Psychology",
               "Valedictorian of UniMelb GradDip (Adv) Psychology",
               "First Published Academic Paper\ndoi: 10.1371/journal.pone.0251964")),
   interests = 
     list(
       "Programming" = c(rep("R", 30), rep("DataVis", 9), rep("JavaScript", 2), "Python"),
-      "Statistics" = c(rep("ML", 1), rep("Regression", 3), rep("Bayes", 2)),
+      "Statistics" = c(rep("ML", 1), rep("Regression", 1), rep("Bayes", 2)),
       "Psychology" = c(rep("Cog", 3), rep("MathPsych", 3), rep("Decision-making", 3))),
   year.steps = 1
 )
@@ -66,4 +66,4 @@ VisualResume(
 
 <img src="man/figures/README-unnamed-chunk-2-1.png" width="100%" />
 
-## PDF Resume
+## PDF Resume via `DataDrivenCV` and `PageDown`
