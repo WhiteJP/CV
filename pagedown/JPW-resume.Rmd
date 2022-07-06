@@ -66,7 +66,7 @@ Joshua White {#title}
 
 ### Cognitive & Data Scientist 
 
-I'm an aspiring Cognitive & Data Scientist who last year finished his Honours in Psychology at the University of Melbourne. I have considerable experience as a research assistant at all levels of the scientific process. I have a particular interest in using computational methods and complex data analysis to better understand the mind, and have experience doing so with a variety of programs / programming languages. Previously, I worked as a litigation lawyer.
+I'm a Cognitive & Data Scientist who recently finished his Honours in Psychology at the University of Melbourne. I have considerable experience as a research assistant at all levels of the scientific process. I have a particular interest in using computational methods and complex data analysis to better understand the mind, and have experience doing so with a variety of programs / programming languages. Previously, I worked as a litigation lawyer.
 
 
 
@@ -285,13 +285,21 @@ Toowoomba, Australia
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
+### Personality and Social Psychology (PSYC20009) Tutor
+
+University of Melbourne
+
+Melbourne, Australia
+
+2022
+
 ### Advanced Design and Data Anlysis (PSYC40005) Tutor
 
 University of Melbourne
 
 Melbourne, Australia
 
-2020
+2021
 
 Tutoring two PSYC40005 lab classes for MSPS. 
 
@@ -301,7 +309,7 @@ University of Melbourne
 
 Melbourne, Australia
 
-2020
+2021
 
 Tutoring three PSYC40014 lab classes for MSPS. 
 
