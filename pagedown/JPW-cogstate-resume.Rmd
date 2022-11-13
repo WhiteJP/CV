@@ -25,18 +25,20 @@ Contact Info {#contact}
 
 Links {#links}
 --------------------------------------------------------------------------------
-
+- <i class="fa fa-graduation-cap" /></i> [Google Scholar Page](https://scholar.google.com.au/citations?user=9lD32xkAAAAJ&hl=en&oi=ao)
 - <i class="fa fa-github"></i> [WhiteJP](https://github.com/WhiteJP)
+- <i class="fab fa-stack-overflow"></i> [josh-white](https://stackoverflow.com/users/20289207/josh-white)
 - <i class="fab fa-linkedin"></i> [joshua-p-white](https://www.linkedin.com/in/joshua-p-white/)
 - <i class="fa fa-twitter-square"></i> [J_P_White](https://twitter.com/J_P_White)
 
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Experience with R, Python, MATLAB, SPSS, SAS, HTML, CSS, JavaScript, ShinyApps, Qualtrics and Git for creating experiments and surveys and/or analysing and visualising data. 
+- Experience with R, Python, MATLAB, SPSS, SAS, HTML, CSS, JavaScript, ShinyApps, Qualtrics and Git for, *inter alia*,  analysing and visualising data. 
 
-- Experience with wide array of statistical and machine learning methods for data analysis, as well as with data visualisation.  
+- Experience with wide array of statistical and machine learning methods for data analysis, as well as with data visualisation. 
 
+- More than 4 years of research experience
 
 References {#references}
 --------------------------------------------------------------------------------
@@ -61,7 +63,7 @@ Joshua White {#title}
 
 ### Data Scientist @ Cogstate
 
-I'm a Data Scientist in the innovation team at Cogstate. My role primarily involves undertaking data analysis to support the business development and product development of Cogstate tests. I have a particular interest in using computational methods and complex data analysis to better understand the mind, and have experience doing so with a variety of programs / programming languages. I also tutor statistics and data analysis at the Melbourne School of Psychological Sciences, University of Melbourne. Previously, I worked as a litigation lawyer.
+I'm a Data Scientist in the innovation team at Cogstate. My role primarily involves undertaking data analysis to support the business development and product development of Cogstate tests. I have a particular interest in using computational methods and complex data analysis to better understand the mind, and have experience doing so with a variety of programs / programming languages. I also tutor psychology, statistics and data analysis at the Melbourne School of Psychological Sciences, University of Melbourne. Previously, I worked as a litigation lawyer.
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -111,7 +113,8 @@ Mebourne, Australia
 
 Present - 2021
 
-I undertake data analysis to support the business development and product development of Cogstate tests.
+Undertake data analysis to support the business development and product development of Cogstate tests.
+
 
 ### Scientist
 
@@ -121,6 +124,7 @@ Mebourne, Australia
 
 2021 - 2020
 
+Undertake data analysis to support the business development and product development of Cogstate tests.
 
 ### Complex Human Data Hub Research Assistant
 
@@ -133,10 +137,9 @@ University of Melbourne
 ::: concise
 - Take a leading role in COVID-19 tracking social licence project
 - Assist with CHDH research projects
-- Organise CHDH Seminar Series
-- Manage CHDH website
-- Manage CHDH social media 
+- Organise and manage Administrative aspects of CHDH
 ::: 
+
 
 ### Research Assistant to Prof. Simon Dennis
 
@@ -146,7 +149,37 @@ University of Melbourne
 
 2020 - 2019
 
-Conceptualise, research, code, complete ethics application, collect and analyse data, and write paper.  
+Conceptualise, research, code, complete ethics application, collect and analyse data, and lead publication of paper.  
+
+
+### Psychology and Statistics/Data Analysis Tutor 
+
+Melbourne School of Psychological Sciences (MSPS)
+
+University of Melbourne
+
+2022 - 2019
+
+Taught the following classes at the University of Melbourne:
+
+- Advanced Design and Data Analysis (PSYC40005)
+- Advanced Research Methods in Psychology (PSYC40014)
+- Mind, Brain & Behaviour 1 (PSYC10003)
+- Mind, Brain & Behaviour 2 (PSYC10004)
+- Cognitive Psychology (PSYC20007)
+- Personality and Social Psychology (PSYC20009)
+
+
+### Volunteer Research Assistant to Associate Prof. Andrew Perfors
+
+Computational Cognitive Science Lab
+
+University of Melbourne
+
+2022 - 2018
+
+Conceptualise, research, code, complete ethics application, collect and analyse data, and lead publication of paper.
+
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
@@ -173,78 +206,6 @@ Heritage Bank
 Toowoomba, Australia
 
 2010 - 2009
-
-
-Teaching Experience {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
-
-### Personality and Social Psychology (PSYC20009) Tutor
-
-University of Melbourne
-
-Melbourne, Australia
-
-2022
-
-### Advanced Design and Data Anlysis (PSYC40005) Tutor
-
-University of Melbourne
-
-Melbourne, Australia
-
-2021
-
-Tutoring two PSYC40005 lab classes for MSPS. 
-
-### Advanced Research Methods in Psychology (PSYC40014) Tutor
-
-University of Melbourne
-
-Melbourne, Australia
-
-2021
-
-Tutoring three PSYC40014 lab classes for MSPS. 
-
-### Mind, Brain & Behaviour 2 (PSYC10004) Tutor
-
-University of Melbourne
-
-Melbourne, Australia
-
-2020
-
-Tutoring three PSYC10004 lab classes for MSPS. 
-
-### Mind, Brain & Behaviour 1 (PSYC10003) Tutor
-
-University of Melbourne
-
-Melbourne, Australia
-
-2020
-
-Tutored two PSYC10003 lab classes for MSPS. 
-
-### Cognitive Psychology (PSYC20007) Tutor
-
-University of Melbourne
-
-Melbourne, Australia
-
-2019
-
-Tutored two PSYC20007 lab classes for MSPS. 
-
-### Statistics Tutor
-
-Self-employed
-
-Melbourne, Australia
-
-2019
-
-Informal statistics tutoring for University of Melbourne psychology undergraduates.
 
 
 Awards {data-icon=award data-concise=true}
@@ -294,7 +255,7 @@ University of Queensland
 Academic Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
-### [Paths to Social Licence for Tracking-data Analytics](https://doi.org/10.1371/journal.pone.0251964)
+### [Paths to social licence for tracking-data analytics in university research and services](https://doi.org/10.1371/journal.pone.0251964)
 
 PLoS ONE
 
@@ -318,7 +279,7 @@ Paul M. Garrett, **Joshua P. White**, Stephan Lewandowsky, Yoshihisa Kashima, An
 
 ### [Public acceptance of Privacy-Encroaching Policies to Address the COVID-19 Pandemic in the United Kingdom](https://doi.org/10.1371/journal.pone.0245740)
 
-PLoS ONE)
+PLoS ONE
 
 N/A
 
@@ -339,45 +300,89 @@ N/A
 Paul M. Garrett, Yu Wen Wang, **Joshua P. White**, Shulan Hsieh, Carol Strong, Yi-Chan Lee,  Stephan Lewandowsky, Simon Dennis, Cheng-Ta Yang
 
 
-### [Ambiguity aversion in qualitative contexts: a vignette study](https://psyarxiv.com/dnghf/)
+### [A Paradox in Digital Memory Assessment: Increased Sensitivity With Reduced Difficulty](https://doi.org/10.3389/fdgth.2021.780303)
 
-Psyarxiv (Submitted to Journal of Behavoural Decision Making)
+Frontiers in Digital Health
 
 N/A
 
 2021
+
+**Joshua P. White**, Adrian  Schembri, Chris J. Edgar, Yen Ying Lim, Colin L. Masters, Paul Maruff
+
+
+### [Response time modelling reveals evidence for multiple, distinct sources of moral decision caution](https://doi.org/10.1016/j.cognition.2022.105026)
+
+Cognition
+
+N/A
+
+2022
+
+Milan Andrejević, **Joshua P. White**, Daniel Feuerriegel, Simon Laham, Stefan Bode
+
+
+### [High acceptance for COVID-19 tracing technologies in Taiwan: A nationally representative survey analysis](https://doi.org/10.3390/ijerph19063323)
+
+International Journal of Environmental Research and Public Health
+
+N/A
+
+2022
+
+Paul M. Garrett, Yu Wen Wang, **Joshua P. White**, Yoshihisa Kashima, Simon Dennis, Cheng-Ta Yang
+
+
+### [Papers please: Predictive factors for national and international COVID-19 immunity and vaccination passport uptake as determined by representative surveys](https://doi.org/10.2196/32969)
+
+JMIR Public Health and Surveillance
+
+N/A
+
+2022
+
+Paul M. Garrett, **Joshua P. White**, Simon Dennis, Stephan Lewandowsky, Cheng-Ta Yang, Yasmina Okan, Andrew Perfors, Daniel Little, Anastasia Kozyreva, Philipp Lorenz-Spreen, Takashi Kusumi, and Yoshihisa Kashima
+
+### [Ambiguity attitudes in qualitative contexts: The role of prior beliefs](https://doi.org/10.1002/bdm.2292)
+
+Journal of Behavioral Decision Making
+
+N/A
+
+2022
 
 **Joshua P. White**, Andrew Perfors
 
 
-### [Response time modelling reveals evidence for multiple, distinct sources of moral decision caution](https://doi.org/10.1101/2021.01.27.427353)
+### Detection of Mild Cognitive Impairment Using In-clinic and Remote Unsupervised Digital Cognitive Assessments (Abstract)
 
-BioRxiv (Submitted to Cognition)
-
-N/A
-
-2021
-
-Milan Andrejević, **Joshua P. White**, Daniel Feuerriegel, Simon Laham, Stefan Bode
-
-### [Papers please: Predictive factors for the uptake of national and international COVID-19 immunity and vaccination passports
-](https://psyarxiv.com/fxemq/)
-
-PsyArXiv (Submitted to Journal of Medical Internet Research)
+Alzheimer's & Dementia: The Journal of the Alzheimer's Association
 
 N/A
 
-2021
+2022
 
-Paul M. Garrett, **Joshua P. White**, Simon Dennis, Stephan Lewandowsky, Cheng-Ta Yang, Yasmina Okan, Andrew Perfors, Daniel R. Little, Anastasia Kozyreva, Philipp Lorenz-Spreen, Takashi Kusumi, Yoshihisa Kashima
+**Joshua P. White**, Chris Edgar, Eric Siemers, Paul Maruff
 
-### [High national acceptance for COVID-19 contact tracing technologies in Taiwan
-](https://preprints.jmir.org/preprint/31522)
 
-JMIR mHealth and uHealth (currently as preprint)
+### [COVID-19, culture, and the privacy calculus: factors predicting the cross-cultural acceptance and uptake of contact tracing technologies](https://psyarxiv.com/zeqn7/)
+
+Submitted to PNAS Nexus
 
 N/A
 
-2021
+2022
 
-Paul M. Garrett, Yu Wen Wang, **Joshua P. White**, Yoshihisa Kashima, Simon Dennis, Cheng-Ta Yang
+Paul M. Garrett, **Joshua P. White**, Yin Luo, Simon Dennis, Nicholas Geard, Daniel R. Little, Lewis Mitchell, Andrew Perfors, Martin Tomko, Giulia Andrighetto, Andrea Guido, Takashi Kusumi, Ralph Herwig, Stefan Herzog, Anastasia Kozyreva, Phillipp Lorenz-Spreen, Thorsten Pachur, Shulan Hsieh, Yi-Chan Lee, Cheng-Ta Yang, Yasmina Okan, Elena Maria Andrade Fernandez, Luis Miguel Velay Vivel, Klaus Oberauer, Robert Goldstone, Stephan Lewandowsky, Yoshihisa Kashima
+
+
+### Sensitivity of individual and composite test scores from the Cogstate Brief Battery to mild cognitive impariment and dementia due to Alzheimer's disease
+
+Manuscript in Preparation
+
+N/A
+
+2022
+
+**Joshua P. White**, Adrian Schembri, Carmen Prenn-Gologranc, Maetj Ondrus,  
+Stanislav Katina, Petr Novak, Yen Ying Lim, Chris Edgar, Colin L. Masters, Paul Maruff

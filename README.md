@@ -39,7 +39,7 @@ VisualResume(
                 "Cogstate", "Cogstate"),
       sub = c("LLB & BCom (Finance) Student", "LLM Student", "Lawyer", 
               "while travelling", "Grad Dip Psych", "Grad Dip Psych (Adv)",
-              "Psych & Stats Tutor", "Research Assistant", "Scientist", "Data Scientist"),
+              "Psych & Stats Tutor/Instructor", "Research Assistant", "Scientist", "Data Scientist"),
       start = c(2010, 2014,    2015, 2017.2, 2018, 2019, 2019.2, 2019.5, 2020.5, 2021.1),
       end =   c(2014, 2015, 2017.35,   2018, 2019, 2020, 2022.9,   2021, 2021.1,   2023),
       side = c(1, 1, 1, 1, 0, 0, 1, 0, 0, 0)),
@@ -57,9 +57,10 @@ VisualResume(
               "First Published Academic Paper\ndoi: 10.1371/journal.pone.0251964")),
   interests = 
     list(
-      "Programming" = c(rep("R", 30), rep("DataVis", 9), rep("JavaScript", 2), "Python"),
+      "Programming" = c(rep("R", 30), rep("C++", 3), rep("JavaScript", 5), rep("Python", 12)),
       "Statistics" = c(rep("ML", 1), rep("Regression", 1), rep("Bayes", 2)),
-      "Psychology" = c(rep("Cog", 3), rep("MathPsych", 3), rep("Decision-making", 3))),
+      "Psychology" = c(rep("Comp Cog", 3), rep("Moral", 3), rep("Decision-making", 1), rep("Social", 3))
+    ),
   year.steps = 1
 )
 ```
