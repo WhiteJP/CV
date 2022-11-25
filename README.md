@@ -31,14 +31,14 @@ VisualResume(
     ),
   titles.right.cex = c(2, 2, 1),
   titles.left.cex = c(4, 2, 1),
-  timeline.labels = c("Education &\nTeaching", "Research"),
+  timeline.labels = c("Education &\nTeaching", "Professional &\nResearch"),
   timeline = 
     data.frame(
       title = c("Uni of Qld", "WashU", "Thomson Geer", "English Teacher",
-                "UniMelb", "UniMelb", "UniMelb", "Complex Human Data Hub", 
+                "UniMelb", "UniMelb", "Complex Human Data Hub", 
                 "Cogstate", "Cogstate"),
       sub = c("LLB & BCom (Finance) Student", "LLM Student", "Lawyer", 
-              "while travelling", "Grad Dip Psych", "Grad Dip Psych (Adv)",
+              "while travelling", "Grad Dip & Grad Dip (Adv) Psych",
               "Psych & Stats Tutor/Instructor", "Research Assistant", "Scientist", "Data Scientist"),
       start = c(2010, 2014,    2015, 2017.2, 2018, 2019.2, 2019.5, 2020.5, 2021.1),
       end =   c(2014, 2015, 2017.35,   2018, 2020, 2022.9,   2021, 2021.1,   2023),
@@ -47,9 +47,9 @@ VisualResume(
     ),
   milestones = 
     data.frame(
-      title = c("BCom & LLB", "LLM", "GradDip (Hons)"),
-      sub = c("Finance & Law", "Law", "Psychology"),
-      year = c(2014, 2015, 2019)),
+      title = c("BCom & LLB", "LLM", "GradDip (Hons)", "Academia"),
+      sub = c("Finance & Law", "Law", "Psychology", "Psychology"),
+      year = c(2014, 2015, 2019, 2022)),
   events = data.frame(
     year = c(2013.85, 2016.55, 2018.85, 2019.85, 2020.75),
     title = c("Top 10% of graduating LLB/BCom students",
