@@ -40,9 +40,11 @@ VisualResume(
       sub = c("LLB & BCom (Finance) Student", "LLM Student", "Lawyer", 
               "while travelling", "Grad Dip Psych", "Grad Dip Psych (Adv)",
               "Psych & Stats Tutor/Instructor", "Research Assistant", "Scientist", "Data Scientist"),
-      start = c(2010, 2014,    2015, 2017.2, 2018, 2019, 2019.2, 2019.5, 2020.5, 2021.1),
-      end =   c(2014, 2015, 2017.35,   2018, 2019, 2020, 2022.9,   2021, 2021.1,   2023),
-      side = c(1, 1, 1, 1, 0, 0, 1, 0, 0, 0)),
+      start = c(2010, 2014,    2015, 2017.2, 2018, 2019.2, 2019.5, 2020.5, 2021.1),
+      end =   c(2014, 2015, 2017.35,   2018, 2020, 2022.9,   2021, 2021.1,   2023),
+      side = c(1, 1, 0, 1, 1, 1, 0, 0, 0),
+      label.y = c(72.5, 72.5, 30, 80, 75, 82.5, 20, 22.5, 30)
+    ),
   milestones = 
     data.frame(
       title = c("BCom & LLB", "LLM", "GradDip (Hons)"),

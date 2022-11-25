@@ -27,11 +27,13 @@ Contact Info {#contact}
 Links {#links}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-github"></i> [WhiteJP](https://github.com/WhiteJP)
-- <i class="fab fa-linkedin"></i> [joshua-p-white](https://www.linkedin.com/in/joshua-p-white/)
-- <i class="fab fa-stack-overflow"></i> [josh-white](https://stackoverflow.com/users/20289207/josh-white)   
-- <i class="fa fa-twitter-square"></i> [J_P_White](https://twitter.com/J_P_White)
 - <i class="fas fa-link"></i> [joshuapwhite.com](https://joshuapwhite.com)
+- <i class="fa fa-sharp fa-solid fa-graduation-cap"></i>[ Google Scholar Page](https://scholar.google.com/citations?user=9lD32xkAAAAJ)
+- <i class="fa fa-github"></i> [WhiteJP](https://github.com/WhiteJP)
+- <i class="fab fa-stack-overflow"></i> [josh-white](https://stackoverflow.com/users/20289207/josh-white)
+- <i class="fab fa-linkedin"></i> [joshua-p-white](https://www.linkedin.com/in/joshua-p-white/)
+- <i class="fa fa-twitter-square"></i> [J_P_White](https://twitter.com/J_P_White)
+
 
 Tech skills {#techskills}
 --------------------------------------------------------------------------------
@@ -41,7 +43,8 @@ Tech skills {#techskills}
 ![js](https://img.shields.io/badge/JavaScript-basic-informational?style=plastic&logo=javascript&logoColor=white&color=2C4F7C) 
 ![c++](https://img.shields.io/badge/C++-basic-informational?style=plastic&logo=Cplusplus&logoColor=white&color=2C4F7C)
 ![git](https://img.shields.io/badge/Git-intermediate-informational?style=plastic&logo=Git&logoColor=white&color=2C4F7C)
-![sql](https://img.shields.io/badge/SQL-basic-informational?style=plastic&logo=sql&logoColor=white&color=2C4F7C)
+![sql](https://img.shields.io/badge/SQL-basic-informational?style=plastic&logo=sql&logoColor=white&color=2C4F7C) <br>
+![LaTex](https://img.shields.io/badge/LaTeX-basic-informational?style=plastic&logo=latex&logoColor=white&color=2C4F7C)
 
 
 Statistical SKills {#statskills}
@@ -51,18 +54,17 @@ Bayesian modeling/statistics <br></br>
 Machine learning <br></br>
 Data visualisation <br></br>
 
-
+<!--
 References {#references}
 --------------------------------------------------------------------------------
 
 References will be provided upon request.
-
+-->
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
-
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown). <br>
 Last updated on `r Sys.Date()`.
 
 
@@ -78,56 +80,58 @@ Joshua White {#title}
 I'm a Cognitive & Data Scientist who recently finished his Honours in Psychology 
 at the University of Melbourne. I am seeking to undertake PhD studies to fulfill 
 my long standing life ambition of joining the academy. I'm interested in using 
-big data, computational modeling/methods, and complex data analysis to better 
-understand the mind, particularly in relation to social, moral, legal, and 
-political matters. I currently work as a Data/Cognitive Scientist with Cogstate
-as well as tutor/TA at the University of Melbourne School of Psychological 
-Sciences. I have previously held numerous research assistant positions and, 
-prior to my career change to cognitive science, I was previously a litigation lawyer. 
-
+big data and computational modeling/methods to better understand the mind, 
+particularly in relation to social, moral, legal, and political matters. 
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### University of Melbourne
+### Graduate Diploma (Advanced) in Psychology
 
-Graduate Diploma (Advanced) in Psychology
+GPA: 94.5/100
 
-Melbourne, Australia
+University of Melbourne
 
 2019
 
-### University of Melbourne
+### Graduate Diploma in Psychology
 
-Graduate Diploma in Psychology
+GPA: 92.7/100
 
-Melbourne, Australia
+University of Melbourne
 
 2018
 
-### Washington University in Saint Louis
+### Master of Laws in Negotiation and Dispute Resolution
 
-Master of Laws
+GPA: 3.69/4
 
-Saint Louis, MO, USA
+Washington University in Saint Louis
 
 2014
 
-### University of Queensland
+### Bachelor of Commerce    
 
-Bachelor of Laws (Hons) & Bachelor of Commerce (Finance)
+GPA 6.25/7, Majored in Finance.
 
-Brisbane, Australia
+University of Queensland
 
-2013
+2014
 
+### Bachelor of Laws
 
-Awards {data-icon=award data-concise=true}
+GPA 5.63/7, Honours class IIA
+
+University of Queensland
+
+2014
+
+Honours and Awards {data-icon=award data-concise=true}
 --------------------------------------------------------------------------------
 
 ### Australian Psychological Society Prize for Fourth-year Psychology 
 
-Top-ranking graduating student (GPA: 94.5/100)
+Top-ranking graduating student.
 
 University of Melbourne
 
@@ -135,7 +139,7 @@ University of Melbourne
 
 ### Dean’s Honours List for the Graduate Diploma in Psychology 
 
-Top-ranking graduating student (GPA: 92.7/100)
+Top-ranking graduating student.
 
 University of Melbourne
 
@@ -169,69 +173,17 @@ University of Queensland
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### Data Scientist (Full Time)
+### Data Scientist
 
 Cogstate Ltd
-
-Mebourne, Australia
-
-Present - 2021
-
-::: concise
-- Create algorithms and workflows to allow for analysis of large computerised cognitive tests. 
-- Develop internal R package for analysis of longitutdinal clinical data
-- Undertake ad-hoc statistical analyses to support business development and pro
-- Publish scientific findings 
-::: 
-
-### Research Assistant -- RepliCATS project 
-
-The University of Melbourne
 
 Melbourne, Australia
 
-2021
+Present - 2020
 
-Read and analyse social science papers and make judgements as to their quality, in particluar, with regard to their credibility, generalizability, replicability and plausibility. 
-
-### Scientist (Part Time)
-
-Cogstate Ltd
-
-Mebourne, Australia
-
-2021 - 2020
-
-::: concise
-- Create workflows to allow for analysis of large datasets of Computerised cognitive tests. 
-- Analyse ROC characteristics of tests, and apply interpretable machine learning methods to improve them.   
-::: 
-
-
-### Complex Human Data Hub Research Assistant
-
-Melbourne School of Psychological Sciences (MSPS)
-
-University of Melbourne
-
-2021 - 2020
-
-::: concise
-- Take a leading role in COVID-19 tracking social licence project
-- Assist with CHDH research projects
-- Organise and manage administrative aspects of CHDH
-::: 
-
-### Research Assistant to Prof. Simon Dennis
-
-Memory and Language Lab
-
-University of Melbourne
-
-2020 - 2019
-
-Conceptualise, research, code, complete ethics application, collect and analyse data, 
-and write paper about Social License for the use of Wi-Fi data in universities.  
+-	Undertake statistical analysis, and apply machine learning algorithms, on computerized computer tests to support their development
+-	Undertake statistical analysis on clinical trial data to support internal decision-making. 
+-	Maintain internal R package, used to support analytic activities within Cogstate. 
 
 
 ### Volunteer Research Assistant to A/Prof. Andrew Perfors
@@ -242,8 +194,41 @@ University of Melbourne
 
 2022 - 2019
 
-Conceptualise, research, code, complete ethics application, collect and analyse data (MTurk), 
-and write paper about Ambiguity Aversion in qualitative contexts.
+- Investigated ambiguity aversion in ‘qualitative’ contexts, from a Bayesian perspective. 
+- Lead all aspects of research process: conceptualized, designed and coded (JavaScript) experiment, completed ethics application, collected and analyzed data, wrote paper, responded to reviewers. 
+
+### Research Assistant -- RepliCATS project 
+
+The University of Melbourne
+
+Melbourne, Australia
+
+2021
+
+Read, analyzed, and discussed social science papers from many fields and make judgements as to their credibility, generalizability, replicability and plausibility, to support the generation of algorithms that may be able to predict research replicability. 
+
+### Complex Human Data Hub Research Assistant
+
+Melbourne School of Psychological Sciences (MSPS)
+
+University of Melbourne
+
+2021 - 2020
+
+- Investigated the ‘social licence’ for the use of location tracking technologies and vaccination passports in response to the COVID-19 pandemic, in a multi-country, longitudinal, multi-paper project. 
+- Involved in: Securing funding, conceptualizing and creating surveys (Qualtrics), designing and undertaking statistical analyses, writing papers and responding to reviewers. 
+
+
+### Research Assistant to Prof. Simon Dennis
+
+Memory and Language Lab
+
+University of Melbourne
+
+2020 - 2019
+
+-	Investigated the ‘social licence’ for the use of location tracking technologies on university campus to support university research and services. 
+-	Lead: designing and creating experiment (Qualtrics), completing ethics application, collecting data, developing and undertaking statistical analyses, writing manuscript and responding to reviewers.
 
 
 ### Psychology Honours Project
@@ -254,8 +239,8 @@ University of Melbourne
 
 2019
 
-Develop and pilot experimental paradigm, collect and analyse data, 
-and write 10,000 word empirical report.
+- Investigated the decision process of moral judgements of fairness through a response-time paradigm based on the dictator game, utilizing computational and statistical modelling. 
+- Piloted experiment, collected and analyzed data, helped to write manuscript and respond to reviewers. 
 
 
 ### Psychology Capstone Project
@@ -266,17 +251,14 @@ University of Melbourne
 
 2018
 
-::: concise
-- Develop experimental paradigm.
-- Collect and analyse experimental data.
-- Write up results as lab report. 
-::: 
+- Investigated whether people could tell the difference between human responses to Raven’s Progressive Matrices, and responses from a Bayesian computational model thereof (Little, Lewandowksy & Griffiths, 2012).
+- Developed experimental paradigm, collected and analyzed data, wrote lab report. 
 
 
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Psychology and Statistics/Data Analysis Tutor 
+### Psychology and Statistics/Data Analysis
 
 Melbourne School of Psychological Sciences (MSPS)
 
@@ -304,7 +286,7 @@ N/A
 Teaching English to upper-intermediate/advanced English learners. 
 
 
-Professional Experience {data-icon=suitcase}
+Other Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
 ### Lawyer
@@ -315,26 +297,14 @@ Brisbane, Australia
 
 2017 - 2015
 
-::: concise
-- Insolvency litigation
-- General commercial litigation
-- Admitted to Queensland Supreme Court
-- Admitted to High Court of Australia
-::: 
-
-### Member Service Officer
-
-Heritage Bank
-
-Toowoomba, Australia
-
-2010 - 2009
+- Act for liquidators, banks, finance companies etc. in insolvency litigation.
+-	Draft court documents, and appear in person, in relation to matters at the Magistrates, District and Supreme Courts of Queensland and High Court of Australia. 
 
 
 Academic Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
-### Sensitivity of individual and composite test scores from the Cogstate Brief Battery to mild cognitive impariment and dementia due to Alzheimer's disease
+### Sensitivity of individfual and composite test scores from the Cogstate Brief Battery to mild cognitive impariment and dementia due to Alzheimer's disease
 
 Manuscript in Preparation
 
@@ -473,9 +443,9 @@ General Audience Publications {data-icon=leanpub}
 
 ### [Privacy and Health: The Lessons of COVID-19 ](https://pursuit.unimelb.edu.au/articles/privacy-and-health-the-lessons-of-covid-19)
 
-Pursuit
+Pursuit, University of Melbourne
 
-University of Melbourne
+N/A
 
 2021
 
@@ -495,7 +465,7 @@ Simon Dennis, Paul Garrett, Daniel Little, Amy Perfors, Yoshi Kashima, **Joshua 
 
 ### [Decreasing support for immunity passports amongst Australians, but this depends on age](https://psychologicalsciences.unimelb.edu.au/research/hubs/chdh/news/decreasing-support-for-immunity-passports-amongst-australians,-but-this-depends-on-age)
 
-CHDH News, University of Melbourne
+Complex Human Data Hub News, University of Melbourne
 
 N/A
 
@@ -506,7 +476,7 @@ N/A
 
 ### [Do Australians support ‘Immunity Passports’ in response to the COVID-19 pandemic?](https://psychologicalsciences.unimelb.edu.au/research/hubs/chdh/news/immunity-passport-support-australia)
 
-CHDH News, University of Melbourne
+Complex Human Data Hub News, University of Melbourne
 
 N/A
 
@@ -536,7 +506,7 @@ N/A
 
 Kelly A, Mackintosh A, **White J**
 
-Selected Presentations {data-icon=comment}
+Presentations {data-icon=comment}
 --------------------------------------------------------------------------------
 
 ### Ambiguity Aversion in qualitative contexts: A vignette study
@@ -572,9 +542,10 @@ N/A
 **Josh White**, Milan Andrejević, Daniel Feuerriegel, Simon Laham, Stefan Bode
 
 
-### [Japan and Italy: A tale of two countries with decentralised ‘exposure notification’ systems](https://www.tpa-tw.org/2020conference?lang=en)
+### Japan and Italy: A tale of two countries with decentralised ‘exposure notification’ systems
 
-Establishing the social licence for mobile tracking technologies for COVID-19 Symposium, 59th Annual Conference of the Taiwan Psychological Association
+Establishing the social licence for mobile tracking technologies for COVID-19 Symposium,
+59th Annual Conference of the Taiwan Psychological Association
 
 N/A
 
@@ -583,7 +554,7 @@ N/A
 **Josh White**
 
 
-### [Public Perceptions of COVID-19 Tracking Technologies](https://psychologicalsciences.unimelb.edu.au/research/colloquium/public-perceptions-of-covid-19-tracking-technologies)
+### Public Perceptions of COVID-19 Tracking Technologies
 
 Melbourne School of Psychological Sciences Colloquium Series
 
@@ -593,7 +564,31 @@ N/A
 
 Simon Dennis, Paul Garrett, **Josh White**
 
-Selected Grants {data-icon=hand-holding-usd}
+Software {data-icon=code}
+--------------------------------------------------------------------------------
+
+### [`betr` R package](https://www.joshuapwhite.com/betr/)
+
+Public R package to support betting analytics and probabilistic analysis. 
+
+N/A
+
+2022
+
+Creator & Maintainer
+
+### `cogstate-r` R package
+
+Internal R package to support Cogstate data science capabilities.
+
+N/A
+
+2022 - 2021
+
+Contributor
+
+
+Grants {data-icon=hand-holding-usd}
 --------------------------------------------------------------------------------
 
 ### Philanthropic support
