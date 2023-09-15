@@ -31,7 +31,7 @@ library(VisualResume)
 VisualResume(
   titles.left = c(
     "Joshua White",
-    "Cognitive & Data Scientist",
+    "PhD Student, Computational Cognitive & Social Science",
     "*Built in R with VisualResume: https://github.com/ndphillips/VisualResume"
     ),
   titles.right = c(
@@ -46,20 +46,21 @@ VisualResume(
     data.frame(
       title = c("Uni of Qld", "WashU", "Thomson Geer", "English Teacher",
                 "UniMelb", "UniMelb", "Complex Human Data Hub", 
-                "Cogstate", "Cogstate"),
+                "Cogstate", "Cogstate", "MIT Sloan"),
       sub = c("LLB & BCom (Finance) Student", "LLM Student", "Lawyer", 
               "while travelling", "Grad Dip & Grad Dip (Adv) Psych",
-              "Psych & Stats Tutor/Instructor", "Research Assistant", "Scientist", "Data Scientist"),
-      start = c(2010, 2014,    2015, 2017.2, 2018, 2019.2, 2019.5, 2020.5, 2021.1),
-      end =   c(2014, 2015, 2017.35,   2018, 2020, 2022.9,   2021, 2021.1,   2023),
-      side = c(1, 1, 0, 1, 1, 1, 0, 0, 0),
-      label.y = c(72.5, 72.5, 30, 80, 75, 82.5, 20, 22.5, 30)
+              "Psych & Stats Tutor/Instructor", "Research Assistant", 
+              "Scientist", "Data Scientist", "PhD Student"),
+      start = c(2010, 2014,    2015, 2017.2, 2018, 2019.2, 2019.5, 2020.5, 2021.1, 2023.7),
+      end =   c(2014, 2015, 2017.35,   2018, 2020, 2022.9,   2021, 2021.1, 2023.5, 2024),
+      side = c(1, 1, 0, 1, 1, 1, 0, 0, 0, 0),
+      label.y = c(72.5, 72.5, 30, 80, 75, 82.5, 20, 22.5, 30, 22.5)
     ),
   milestones = 
     data.frame(
-      title = c("BCom & LLB", "LLM", "GradDip (Hons)", "Academia"),
-      sub = c("Finance & Law", "Law", "Psychology", "Psychology"),
-      year = c(2014, 2015, 2019, 2022)),
+      title = c("BCom & LLB", "LLM", "GradDip (Hons)", "Research", "PhD"),
+      sub = c("Finance & Law", "Law", "Psychology", "Psychology", "Comp Cog Sci"),
+      year = c(2014, 2015, 2019, 2022, 2024)),
   events = data.frame(
     year = c(2013.85, 2016.55, 2018.85, 2019.85, 2020.75),
     title = c("Top 10% of graduating LLB/BCom students",
